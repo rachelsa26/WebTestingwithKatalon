@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PR03 - User wants to view product details by clicking product image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b0b7c00-a9b9-41a5-84aa-e9d4e6421583</testCaseGuid>
+</TestCaseEntity>

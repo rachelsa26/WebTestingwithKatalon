@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT03 - User wants to go back to the product list by clicking the Continue Shopping button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d480cf1-3930-4210-a32e-99cd73e1516e</testCaseGuid>
+</TestCaseEntity>

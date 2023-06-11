@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PD01 - User wants to add product to cart by clicking add to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04c6ac5b-ded1-479d-8819-04ec5c93e792</testCaseGuid>
+</TestCaseEntity>

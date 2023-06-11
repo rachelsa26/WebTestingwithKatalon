@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT04 - User wants to proceed to the checkout page by clicking the Checkout button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c8e6e41-4cc7-4506-980e-4410f943de36</testCaseGuid>
+</TestCaseEntity>

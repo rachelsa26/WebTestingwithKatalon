@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO03 - User wants to view product details by clicking product name in checkout overview</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97ce7394-cb53-45d4-9f97-58ecc9723e3a</testCaseGuid>
+</TestCaseEntity>

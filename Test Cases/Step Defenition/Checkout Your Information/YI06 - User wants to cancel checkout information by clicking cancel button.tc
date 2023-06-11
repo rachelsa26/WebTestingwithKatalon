@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>YI06 - User wants to cancel checkout information by clicking cancel button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cbdec36-577f-4fa6-809a-96d4ad498820</testCaseGuid>
+</TestCaseEntity>

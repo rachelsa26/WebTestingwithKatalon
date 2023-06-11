@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>YI03 - User wants to proceed with the checkout using empty lastname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18079169-e1ea-428e-a3bf-442089695b68</testCaseGuid>
+</TestCaseEntity>

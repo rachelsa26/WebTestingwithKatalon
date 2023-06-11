@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>YI05 - User wants to proceed with the checkout using empty input data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d752ce5-1da9-4dfb-bc2a-eea33bc9825f</testCaseGuid>
+</TestCaseEntity>

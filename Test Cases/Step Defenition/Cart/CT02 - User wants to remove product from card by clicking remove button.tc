@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT02 - User wants to remove product from card by clicking remove button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01b82d5f-7cd1-4913-9d0c-8933744b6256</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PD02 - User wants to remove product from cart by clicking remove button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4f8b99f-eadf-4f9f-88ad-a84aec9c68d3</testCaseGuid>
+</TestCaseEntity>

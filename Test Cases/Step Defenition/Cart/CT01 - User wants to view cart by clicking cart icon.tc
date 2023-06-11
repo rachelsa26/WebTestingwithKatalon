@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT01 - User wants to view cart by clicking cart icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>333145cd-916c-4654-83fc-43dfa5144d3b</testCaseGuid>
+</TestCaseEntity>
